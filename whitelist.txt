@@ -1,0 +1,74 @@
+#Google Fonts
+gstaticadssl.l.google.com
+
+#Google Play
+android.clients.google.com
+
+#Google Services
+clients2.google.com
+clients4.google.com
+
+#YouTube history
+s.youtube.com
+video-stats.l.google.com
+
+#Microsoft Store
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com 
+
+#Microsoft Web Pages
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+products.office.com
+outlook.office365.com
+
+#Windows 10
+ipv6.msftncsi.com
+msftncsi.com
+www.msftncsi.com
+
+#Windows 10 Update
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+sls.update.microsoft.com.akadns.net
+tlu.dl.delivery.mp.microsoft.com
+
+#Xbox EA Play
+activity.windows.com
+
+#Xbox Full Functionality
+attestation.xboxlive.com
+cert.mgt.xboxlive.com
+ctldl.windowsupdate.com
+device.auth.xboxlive.com
+def-vef.xboxlive.com
+eds.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+notify.xboxlive.com
+settings-win.data.microsoft.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+v10.vortex-win.data.microsoft.com
+www.msftncsi.com
+www.xboxlive.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
+
+#Xbox Live
+clientconfig.passport.net
+
+#Xbox Live Achievements
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+#Xbox Live Messaging
+client-s.gateway.messenger.live.com
+
+#Xbox Series X/S Store
+arc.msn.com
