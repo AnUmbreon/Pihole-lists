@@ -1,3 +1,6 @@
+#Crunchyroll
+cr-eec.etp-prod.com
+
 #Google Fonts
 gstaticadssl.l.google.com
 
