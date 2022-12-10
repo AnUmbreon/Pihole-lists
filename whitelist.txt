@@ -4,6 +4,9 @@ cr-eec.etp-prod.com
 #EA Play
 activity.windows.com
 
+#Miscellaneous
+assets.adobedtm.com
+
 #Origin Energy
 sdk.split.io
 
