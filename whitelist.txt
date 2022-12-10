@@ -4,6 +4,9 @@ cr-eec.etp-prod.com
 #EA Play
 activity.windows.com
 
+#Origin Energy
+sdk.split.io
+
 #Xbox Live Achievements
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
