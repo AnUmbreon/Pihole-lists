@@ -4,10 +4,6 @@ cr-eec.etp-prod.com
 #EA Play
 activity.windows.com
 
-#Honey
-d.joinhoney.com
-s.joinhoney.com
-
 #Miscellaneous
 assets.adobedtm.com
 
