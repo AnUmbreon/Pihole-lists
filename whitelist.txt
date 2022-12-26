@@ -4,6 +4,9 @@ cr-eec.etp-prod.com
 #EA Play
 activity.windows.com
 
+#JB Hi-Fi Reviews
+api.bazaarvoice.com
+
 #Miscellaneous
 assets.adobedtm.com
 
