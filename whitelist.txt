@@ -1,0 +1,18 @@
+#Crunchyroll
+cr-eec.etp-prod.com
+
+#Google Font
+gstaticadssl.l.google.com
+
+#Origin Energy
+sdk.split.io
+
+#Xbox EA Play
+activity.windows.com
+
+#Xbox Functionality
+settings-win.data.microsoft.com
+
+#Xbox Live Achievements
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
