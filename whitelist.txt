@@ -6,6 +6,7 @@ gstaticadssl.l.google.com
 
 #Kindle
 device-messaging-na.amazon.com
+device-metrics-us.amazon.com
 unagi-na.amazon.com
 
 #Origin Energy
