@@ -4,6 +4,10 @@ cr-eec.etp-prod.com
 #Google Font
 gstaticadssl.l.google.com
 
+#Kindle
+device-messaging-na.amazon.com
+unagi-na.amazon.com
+
 #Origin Energy
 sdk.split.io
 
