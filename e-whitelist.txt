@@ -1,3 +1,6 @@
 #Google Ad Services
 ad.doubleclick.net
+googleads.g.doubleclick.net
+jnn-pa.googleapis.com
+static.doubleclick.net
 www.googleadservices.com
