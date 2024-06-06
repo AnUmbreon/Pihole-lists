@@ -1,6 +1,9 @@
 #Crunchyroll
 cr-eec.etp-prod.com
 
+#Google Ad Services / Sponsored Links
+www.googleadservices.com
+
 #Google Font
 gstaticadssl.l.google.com
 
