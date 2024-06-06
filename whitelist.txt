@@ -2,6 +2,7 @@
 cr-eec.etp-prod.com
 
 #Google Ad Services / Sponsored Links
+ad.doubleclick.net
 www.googleadservices.com
 
 #Google Font
