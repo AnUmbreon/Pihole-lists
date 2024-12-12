@@ -25,3 +25,6 @@ settings-win.data.microsoft.com
 #Xbox Live Achievements
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
+
+#Youtube
+jnn-pa.googleapis.com
