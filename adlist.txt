@@ -1,1 +1,10 @@
+#HaGeZi's Pro DNS Blocklist
+#Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+
+#HaGeZi's Threat Intelligence Feeds DNS Blocklist
+#Increases security significantly! Blocks Malware, Cryptojacking, Spam, Scam and Phishing.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+
+#OISD
 https://small.oisd.nl
