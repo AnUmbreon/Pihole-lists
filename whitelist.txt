@@ -5,9 +5,6 @@ cr-eec.etp-prod.com
 ad.doubleclick.net
 www.googleadservices.com
 
-#Google Font
-gstaticadssl.l.google.com
-
 #Kindle
 device-messaging-na.amazon.com
 device-metrics-us.amazon.com
@@ -15,16 +12,3 @@ unagi-na.amazon.com
 
 #Origin Energy
 sdk.split.io
-
-#Xbox EA Play
-activity.windows.com
-
-#Xbox Functionality
-settings-win.data.microsoft.com
-
-#Xbox Live Achievements
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
-
-#Youtube
-jnn-pa.googleapis.com
