@@ -5,3 +5,7 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 #HaGeZi's Threat Intelligence Feeds DNS Blocklist
 #Increases security significantly! Blocks Malware, Cryptojacking, Spam, Scam and Phishing.
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+
+#HaGeZi's World's Most Abused TLDs
+#The Top Most Abused Top Level Domains
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt
